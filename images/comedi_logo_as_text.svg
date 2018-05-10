@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 478.79353 127.2537"
+   height="35.913822mm"
+   width="135.12617mm">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(14.27001,99.422921)"
+     id="layer1">
+    <text
+       id="text4136"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:118.3369751px;line-height:1000%;font-family:Americana;-inkscape-font-specification:'Americana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="scale(0.97285672,1.0279006)"
+       x="3.8135631"
+       y="-4.0358825">comedi</text>
+    <text
+       id="text4277"
+       style="font-style:normal;font-weight:bold;font-size:19.46393776px;line-height:1000%;font-family:Americana;-inkscape-font-specification:'Americana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.885524"
+       y="20.452259">linux device control and measurement interface</text>
+  </g>
+</svg>
