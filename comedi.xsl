@@ -59,7 +59,7 @@
 <td valign="top" rowspan="5">
 <center>
 <font size="8" face="arial,helvetica"><b>
-<img src="images/comedi_logo.png" alt="Comedi - The Linux Control and Measurement Interface" />
+<img width="417" src="images/comedi_logo.svg" alt="Comedi - The Linux Control and Measurement Interface" />
 </b></font>
 </center>
 </td>
