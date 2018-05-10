@@ -5,11 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 478.79353 127.2537"
+   width="135.12617mm"
    height="35.913822mm"
-   width="135.12617mm">
+   viewBox="0 0 478.79353 127.2537"
+   id="svg2"
+   version="1.1">
   <defs
      id="defs4" />
   <metadata
@@ -25,18 +25,18 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(14.27001,99.422921)"
-     id="layer1">
+     id="layer1"
+     transform="translate(14.27001,99.422921)">
     <text
-       id="text4136"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:118.3369751px;line-height:1000%;font-family:Americana;-inkscape-font-specification:'Americana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="scale(0.97285672,1.0279006)"
+       y="-4.0358825"
        x="3.8135631"
-       y="-4.0358825">comedi</text>
+       transform="scale(0.97285672,1.0279006)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:118.3369751px;line-height:1000%;font-family:Americana;-inkscape-font-specification:'Americana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4136">comedi</text>
     <text
-       id="text4277"
-       style="font-style:normal;font-weight:bold;font-size:19.46393776px;line-height:1000%;font-family:Americana;-inkscape-font-specification:'Americana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="20.452259"
        x="-13.885524"
-       y="20.452259">linux device control and measurement interface</text>
+       style="font-style:normal;font-weight:bold;font-size:19.46393776px;line-height:1000%;font-family:Americana;-inkscape-font-specification:'Americana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4277">linux control and measurement device interface</text>
   </g>
 </svg>
