@@ -357,6 +357,7 @@ National Instruments	PCI-6528	ni_65xx	pci-6528
 National Instruments	PCI-6534	ni_pcidio	pci-6534
 National Instruments	PCI-6601	ni_660x	ni_660x
 National Instruments	PCI-6602	ni_660x	ni_660x
+National Instruments	PCI-6608	ni_660x	ni_660x
 National Instruments	PCI-6624	ni_660x	ni_660x
 National Instruments	PCI-6703	ni_670x	ni_670x
 National Instruments	PCI-6704	ni_670x	ni_670x

@@ -11,8 +11,10 @@ ADLINK	ACL-8113	pcl812	acl-8113
 ADLINK	ACL-8216	pcl812	acl8216
 ADLINK	LPCI-7250 LPCIe-7250	adl_pci7250	adl_pci7250
 ADLINK	PCI-6216V	adl_pci6208	adl_pci6208
+ADLINK	PCI-7224	adl_pci7296	adl_pci7296 or pci7224
 ADLINK	PCI-7230	adl_pci7230	adl_pci7230
-ADLINK	PCI-7296	adl_pci7296	adl_pci7296
+ADLINK	PCI-7248	adl_pci7296	adl_pci7296 or pci7248
+ADLINK	PCI-7296	adl_pci7296	adl_pci7296 or pci7296
 ADLINK	PCI-7432	adl_pci7432	adl_pci7432
 ADLINK	PCI-8164	adl_pci8164	adl_pci8164
 ADLINK	PCI-9111HR	adl_pci9111	adl_pci9111
@@ -166,6 +168,7 @@ Data Translation	DT3004	dt3000	dt3000
 Data Translation	DT3004-200	dt3000	dt3000
 Data Translation	DT3005	dt3000	dt3000
 Data Translation	DT9812	dt9812	dt9812
+Diamond Systems	Diamond-MM-32-AT	dmm32at	dmm32at
 Fastwel	UNIOxx-5	unioxx5	unioxx5
 Fastwel	UNIOxx-5	unioxx5	unioxx5
 General Standards Corporation	PCI-HPDI32	gsc_hpdi	gsc_hpdi
@@ -272,6 +275,7 @@ Measurement Computing	PCI-DDA08/16	cb_pcidda	cb_pcidda
 Measurement Computing	PCI-DIO24	cb_pcidio	cb_pcidio
 Measurement Computing	PCI-DIO24H	cb_pcidio	cb_pcidio
 Measurement Computing	PCI-DIO48H	cb_pcidio	cb_pcidio
+Measurement Computing	PCI-DIO96H	cb_pcidio	cb_pcidio
 Measurement Computing	PCIM-DDA06-16	cb_pcimdda	cb_pcimdda
 Measurement Computing	PCI_DAS1002	cb_pcidas	cb_pcidas
 Mechatronic Systems Inc.	C6x_DIGIO DSP daughter card	c6xdigio	c6xdigio
