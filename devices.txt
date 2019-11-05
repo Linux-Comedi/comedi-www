@@ -30,6 +30,7 @@ Advantech	PCI-1713	adv_pci1710	pci1713 or adv_pci1710
 Advantech	PCI-1716	adv_pci1710	pci1716 or adv_pci1710
 Advantech	PCI-1720	adv_pci1710	pci1720 or adv_pci1710
 Advantech	PCI-1723	adv_pci1723	adv_pci1723
+Advantech	PCI-1724U	adv_pci1724	adv_pci1724
 Advantech	PCI-1730	adv_pci_dio	adv_pci_dio
 Advantech	PCI-1731	adv_pci1710	pci1731 or adv_pci1710
 Advantech	PCI-1733	adv_pci_dio	adv_pci_dio
