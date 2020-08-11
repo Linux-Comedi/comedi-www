@@ -52,8 +52,8 @@ for using Comedi from real-time tasks.
 
 <ul>
 <li>comedi-0.7.76, released 2008-01-28</li>
-<li>comedilib-0.11.0, released 2017-09-27</li>
-<li>comedi_calibrate-5, released 2017-03-16</li>
+<li>comedilib-0.12.0, released 2020-08-11</li>
+<li>comedi_calibrate-5.1, released 2020-08-11</li>
 </ul>
 
 <p>
