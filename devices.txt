@@ -428,6 +428,10 @@ Real Time Devices	PCI4520-8	rtd520	rtd520
 SSV Embedded Systems	DIL/Net-PC 1486	ssv_dnp	dnp-1486
 Sensoray	526	s526	s526
 Sensoray	626	s626	s626
+Velleman	K8055	vmk80xx	K8055/VM110
+Velleman	K8061	vmk80xx	K8061/VM140
+Velleman	VM110	vmk80xx	K8055/VM110
+Velleman	VM140	vmk80xx	K8061/VM140
 Winsystems	PCM-A/D12	pcmad	pcmad12
 Winsystems	PCM-A/D16	pcmad	pcmad16
 Winsystems	PCM-D/A-12	pcmda12	pcmda12
