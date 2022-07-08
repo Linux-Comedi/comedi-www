@@ -12,7 +12,7 @@
 
 <dl>
   <dt>
-    <a href="http://www.linux-usb-daq.co.uk/software2/comedi-record/">comedirecord</a>
+    <a href="https://web.archive.org/web/20190519115110/http://linux-usb-daq.com/software2/comedi-record/">comedirecord</a> (archived from <a href="http://linux-usb-daq.com/software2/comedi-record/">here</a> (see <a href="https://github.com/glasgowneuro/usbdux">USB-DUX</a>)
   </dt>
   <dd>
     A simple program to record data from a Comedi device.
@@ -26,7 +26,7 @@
     Uses KDE.
   </dd>
   <dt>
-    <a href="http://www.orocos.org/">Orocos</a>
+    <a href="https://orocos.org/">Orocos</a>
   </dt>
   <dd>
     Open Robot Control Software.
@@ -44,7 +44,7 @@
     A digital oscilloscope for Linux.
   </dd>
   <dt>
-    <a href="http://www.linux-usb-daq.co.uk/software2/qtscope/">QTScope</a>
+    <a href="https://github.com/steffenmauch/QTScope">QTScope</a>
   </dt>
   <dd>
     A flexible data visualization tool. Based on Trolltech Qt widget library
@@ -65,38 +65,38 @@
     A system to control and test COMEDI devices remotely (or locally).
   </dd>
   <dt>
-    <a href="http://www.linux-usb-daq.co.uk/software2/comedi2puredata/">comedi2puredata</a>
+    <a href="https://web.archive.org/web/20191229004533/http://www.linux-usb-daq.co.uk/software2/comedi2puredata/">comedi2puredata</a> (archived from <a href="http://www.linux-usb-daq.co.uk/software2/comedi2puredata/">here</a>)
   </dt>
   <dd>
     Analog DAQ input for the real time audio processor.
-    <a href="http://www.puredata.org/">PureData</a>.
+    <a href="https://puredata.info/">Pure Data</a>.
   </dd>
   <dt>
-    <a href="http://plcemu.sourceforge.net/">PLC-EMU</a>
+    <a href="https://sourceforge.net/p/plcemu/wiki/Home/">PLC-EMU</a>
   </dt>
   <dd>
     A Programmable Logic Controller EMUlator for Linux.
   </dd>
   <dt>
-    <a href="http://search.cpan.org/~gebele/">Comedi-Lib</a>
+    <a href="https://metacpan.org/dist/Comedi-Lib">Comedi-Lib</a>
   </dt>
   <dd>
     A Perl API for Comedilib.
   </dd>
   <dt>
-    <a href="http://pypi.python.org/pypi/pycomedi/">pycomedi</a>
+    <a href="https://pypi.org/project/pycomedi/">pycomedi</a>
   </dt>
   <dd>
     A Python object-oriented interface to Comedilib.
   </dd>
   <dt>
-    <a href="http://sourceforge.net/projects/schlang/">Schlang</a>
+    <a href="https://sourceforge.net/projects/schlang/">Schlang</a>
   </dt>
   <dd>
     A Deliberately Non-Object-Oriented Python Interface to COMEDI.
   </dd>
   <dt>
-    <a href="http://savannah.nongnu.org/projects/kacq/">kacq</a>
+    <a href="https://savannah.nongnu.org/projects/kacq/">kacq</a>
   </dt>
   <dd>
     A C program to perform data acquisition, developed to record data
@@ -111,7 +111,7 @@
     sources (e.g. NIDAQmx).
   </dd>
   <dt>
-    <a href="http://www.patchclamp.net/">patchclamp</a>
+    <a href="https://www.patchclamp.net/">patchclamp</a>
   </dt>
   <dd>
     A free solution for electrophysiology, using a Qt-based GUI.
