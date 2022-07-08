@@ -25,14 +25,16 @@
     A Perl API for Comedilib.
   </dd>
   <dt>
-    <a href="https://web.archive.org/web/20191229004533/http://www.linux-usb-daq.co.uk/software2/comedi2puredata/">comedi2puredata</a> (archived from <a href="http://www.linux-usb-daq.co.uk/software2/comedi2puredata/">here</a>)
+    <a href="https://web.archive.org/web/20191229004533/http://www.linux-usb-daq.co.uk/software2/comedi2puredata/">comedi2puredata</a>
+    (archived from <a href="http://www.linux-usb-daq.co.uk/software2/comedi2puredata/">here</a>)
   </dt>
   <dd>
     Analog DAQ input for the real time audio processor.
     <a href="https://puredata.info/">Pure Data</a>.
   </dd>
   <dt>
-  <a href="https://github.com/berndporr/comedirecord">comedirecord</a> (see <a href="https://web.archive.org/web/20190519115110/http://linux-usb-daq.com/software2/comedi-record/">archive of original web-page</a>)
+    <a href="https://github.com/berndporr/comedirecord">comedirecord</a>
+    (see <a href="https://web.archive.org/web/20190519115110/http://linux-usb-daq.com/software2/comedi-record/">archive of original web-page</a>)
   </dt>
   <dd>
     A simple program to record data from a Comedi device.
