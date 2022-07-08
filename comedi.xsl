@@ -83,9 +83,9 @@
 				</ul>
 				<h4>Links</h4>
 				<ul>
-					<li><a href="http://www.linux.org/">Linux</a></li>
-					<li><a href="http://www.debian.org/">Debian</a></li>
-					<li><a href="http://www.rtai.org/">RTAI</a></li>
+					<li><a href="https://www.linux.org/">Linux</a></li>
+					<li><a href="https://www.debian.org/">Debian</a></li>
+					<li><a href="https://www.rtai.org/">RTAI</a></li>
 					<li><a href="http://www.schleef.org/">David Schleef</a></li>
 				</ul>
 			</div>
