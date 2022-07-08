@@ -8,6 +8,12 @@
   <title>Hardware Manufacturers</title>
   <body>
 
+<h1>Open Source Hardware Links</h1>
+
+<ul>
+<li><a href="https://github.com/glasgowneuro/usbdux">USB-DUX</a> (products previously manufactured by Incite Technology Limited)</li>
+</ul>
+
 <h1>Manufacturer Links</h1>
 
 <ul>
@@ -21,7 +27,7 @@
 <li><a href="http://www.fastwel.com/">Fastwel</a></li>
 <li><a href="http://www.generalstandards.com/">General Standards Corporation</a></li>
 <li><a href="http://www.icpdas.com/">ICP DAS</a></li>
-<li><a href="http://www.linux-usb-daq.com/">Incite Technology Limited</a></li>
+<li>Incite Technology Limited, University of Stirling (see <a href="https://github.com/glasgowneuro/usbdux">USB-DUX</a>)</li>
 <li>Inova Computers</li>
 <li><a href="http://www.edasce.com/">Intelligent Instrumentation</a></li>
 <li><a href="http://www.mccdac.com/">IOtech</a> (now Measurement Computing)</li>
