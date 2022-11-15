@@ -94,6 +94,15 @@
     A Python object-oriented interface to Comedilib.
   </dd>
   <dt>
+    <a href="https://pypi.org/project/pyusbdux/">pyusbdux</a>
+    (<a href="https://github.com/berndporr/pyusbdux">GitHub</a>)
+  </dt>
+  <dd>
+    A Python API for the open-source hardware
+    <a href="https://github.com/glasgowneuro/usbdux">USB-DUX</a> data
+    acquisition boxes.
+  </dd>
+  <dt>
     <a href="https://github.com/steffenmauch/QTScope">QTScope</a>
   </dt>
   <dd>
