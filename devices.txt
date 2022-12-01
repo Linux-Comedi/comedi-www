@@ -72,7 +72,7 @@ Advantech	PCL-818H	pcl818	pcl818h
 Advantech	PCL-818HD	pcl818	pcl818hd
 Advantech	PCL-818HG	pcl818	pcl818hg
 Advantech	PCL-818L	pcl818	pcl818l
-Advantech	PCM-3724	pcm3724	pcm724
+Advantech	PCM-3724	pcm3724	pcm3724
 Advantech	PCM-3730	pcm3730	pcm3730
 Amplicon	PC212E	amplc_dio200	pc212e
 Amplicon	PC214E	amplc_dio200	pc214e
