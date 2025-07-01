@@ -23,11 +23,12 @@
 </p>
 
 <p>
-  Kernel versions 2.6.30 onwards have an experimental in-tree Comedi
-  implementation in the driver "staging" area. This support should improve
-  with later kernel versions. Note that RTAI support for the in-tree "staging"
-  version is still in development, so for current RTAI releases the Git
-  version of Comedi should be used.
+  Linux kernel versions 2.6.30 onwards have an experimental, in-tree Comedi
+  implementation in the driver "staging" area.  From kernel version 5.13
+  onwards, this support has been migrated out of the "staging" area into
+  "drivers/comedi".  Note that RTAI support has been dropped from the Linux
+  kernel version of Comedi, so for current RTAI releases, the Git version
+  of Comedi should be used.
 </p>
 
 <ul>
