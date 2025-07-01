@@ -31,9 +31,14 @@
 </p>
 
 <ul>
-<li><a href="download">HTTP (mostly obsolete versions):</a> http://www.comedi.org/download</li>
-<li><a href="download/comedilib-0.13.0.tar.gz">comedilib-0.13.0</a> (Released 2025-06-16)</li>
-<li><a href="download/comedi_calibrate-5.1.tar.gz">comedi_calibrate-5.1</a> (Released 2020-08-11)</li>
+<li><a href="download">HTTP (mostly obsolete versions)</a>: http://www.comedi.org/download</li>
+<li>comedilib-0.13.0
+  (<a href="download/comedilib-0.13.0.tar.gz">.tar.gz</a>,
+  <a href="download/comedilib-0.13.0.tar.xz">.tar.xz</a>)
+  (Released 2025-06-16)</li>
+<li>comedi_calibrate-5.1
+  (<a href="download/comedi_calibrate-5.1.tar.gz">.tar.gz</a>)
+  (Released 2020-08-11)</li>
 <li><a href="https://github.com/Linux-Comedi/comedi/tarball/master">Current Comedi Git snapshot</a></li>
 <li><a href="https://github.com/Linux-Comedi/comedilib/tarball/master">Current Comedilib Git snapshot</a></li>
 <li><a href="https://github.com/Linux-Comedi/comedi_calibrate/tarball/master">Current comedi_calibrate Git snapshot</a></li>
